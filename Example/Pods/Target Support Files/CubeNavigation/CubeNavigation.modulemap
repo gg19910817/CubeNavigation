@@ -1,0 +1,6 @@
+framework module CubeNavigation {
+  umbrella header "CubeNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}

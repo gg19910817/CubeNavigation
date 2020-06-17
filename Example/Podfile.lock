@@ -1,0 +1,16 @@
+PODS:
+  - CubeNavigation (0.1.0)
+
+DEPENDENCIES:
+  - CubeNavigation (from `../`)
+
+EXTERNAL SOURCES:
+  CubeNavigation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CubeNavigation: 5e2332c8d6a3de72855364081f73451ac9ec081e
+
+PODFILE CHECKSUM: 615aea25f685a3d0914a814a900facd6df103ee5
+
+COCOAPODS: 1.9.3
