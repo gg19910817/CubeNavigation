@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CubeNavigation_Example' do
+  pod 'CubeNavigation', :path => '../'
+
+  target 'CubeNavigation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
